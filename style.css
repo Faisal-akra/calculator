@@ -77,3 +77,10 @@ button{
 body{
     background-color: rgb(54, 49, 49);
 }
+
+
+#equal{
+    background-color: rgb(35, 35, 224);
+    position: relative;
+    bottom: 147px;
+}
